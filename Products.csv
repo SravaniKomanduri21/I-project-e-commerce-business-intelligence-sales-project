@@ -1,0 +1,1001 @@
+﻿s.no,product_id,product_name,category_id,brand,price,stock_quantity
+,1,Smartphone,1,Dell,7615.4,249
+,2,Tablet,1,Samsung,26806.69,148
+,3,Smart TV,1,Samsung,40193,220
+,4,Smartphone,1,Sony,30856.88,391
+,5,Tablet,1,Samsung,10774.23,205
+,6,Laptop,1,Samsung,38173.17,80
+,7,Smartphone,1,Apple,15245.93,472
+,8,Smart TV,1,Samsung,6364.99,431
+,9,Smart TV,1,Dell,25912.4,231
+,10,Smartphone,1,Dell,36407.99,390
+,11,Tablet,1,Sony,29974.52,102
+,12,Laptop,1,Apple,45394.49,217
+,13,Tablet,1,Dell,36714.01,389
+,14,Laptop,1,Samsung,46500.77,319
+,15,Smartphone,1,Sony,387.16,373
+,16,Smartphone,1,Apple,15811.93,155
+,17,Smart TV,1,Apple,5513.94,443
+,18,Smartphone,1,Sony,45124.82,165
+,19,Smart TV,1,Apple,24481.16,448
+,20,Tablet,1,Dell,37164.94,482
+,21,Smart TV,1,Samsung,4027.82,380
+,22,Smart TV,1,Sony,36923.51,393
+,23,Tablet,1,Apple,22335.02,213
+,24,Tablet,1,Sony,45954.48,167
+,25,Smart TV,1,Sony,42931.31,268
+,26,Laptop,1,Dell,44854.64,445
+,27,Smart TV,1,Dell,12338.71,196
+,28,Smart TV,1,Apple,3706.95,284
+,29,Laptop,1,Samsung,8233.09,140
+,30,Laptop,1,Apple,8820.57,407
+,31,Tablet,1,Apple,28781.95,472
+,32,Tablet,1,Samsung,3782.74,150
+,33,Smart TV,1,Apple,48847.87,52
+,34,Tablet,1,Apple,48203.13,456
+,35,Laptop,1,Dell,8822.11,154
+,36,Smartphone,1,Dell,36486.74,165
+,37,Smartphone,1,Dell,32394.95,96
+,38,Smartphone,1,Dell,20951.27,435
+,39,Smartphone,1,Sony,46686.02,149
+,40,Smart TV,1,Samsung,1094.43,223
+,41,Smart TV,1,Sony,45984.25,377
+,42,Smartphone,1,Apple,20038.05,398
+,43,Smart TV,1,Sony,13099.4,494
+,44,Tablet,1,Apple,35445.42,160
+,45,Smart TV,1,Samsung,42164.59,398
+,46,Smartphone,1,Sony,23496.7,100
+,47,Laptop,1,Sony,10582.76,299
+,48,Smart TV,1,Samsung,15941.12,82
+,49,Tablet,1,Sony,13220.06,56
+,50,Laptop,1,Dell,44946.37,271
+,51,Laptop,1,Apple,4885.94,183
+,52,Laptop,1,Dell,18338.5,443
+,53,Smart TV,1,Apple,19315.28,272
+,54,Smart TV,1,Samsung,25316.23,415
+,55,Smart TV,1,Samsung,30115.1,433
+,56,Laptop,1,Samsung,32094.18,170
+,57,Tablet,1,Samsung,15377.72,179
+,58,Laptop,1,Dell,49504.94,314
+,59,Laptop,1,Sony,49256.42,141
+,60,Tablet,1,Apple,49724.92,241
+,61,Smartphone,1,Apple,35165.78,123
+,62,Smartphone,1,Samsung,45306.08,64
+,63,Tablet,1,Dell,46572.86,487
+,64,Smart TV,1,Samsung,44215.44,176
+,65,Laptop,1,Dell,45056.28,290
+,66,Smartphone,1,Dell,18476.55,467
+,67,Smart TV,1,Samsung,26432.7,158
+,68,Smartphone,1,Apple,33663.04,398
+,69,Smart TV,1,Dell,44937.09,393
+,70,Tablet,1,Dell,26751.62,300
+,71,Laptop,1,Dell,9564.31,422
+,72,Tablet,1,Sony,46197.51,467
+,73,Laptop,1,Samsung,34630.57,258
+,74,Smartphone,1,Sony,33368.93,205
+,75,Smartphone,1,Dell,193.98,293
+,76,Tablet,1,Dell,49219.63,466
+,77,Tablet,1,Samsung,24804.01,122
+,78,Tablet,1,Apple,12962.86,74
+,79,Smartphone,1,Apple,40876.41,130
+,80,Tablet,1,Apple,9978.37,399
+,81,Laptop,1,Dell,13793.65,39
+,82,Smart TV,1,Dell,44097.17,455
+,83,Smart TV,1,Apple,39205.35,39
+,84,Smart TV,1,Dell,8501.14,374
+,85,Tablet,1,Apple,46739.22,376
+,86,Tablet,1,Samsung,24141.94,61
+,87,Smartphone,1,Dell,24746.23,278
+,88,Tablet,1,Sony,3605.21,231
+,89,Tablet,1,Sony,29013.57,349
+,90,Smart TV,1,Apple,4064.55,185
+,91,Smartphone,1,Sony,10121.15,261
+,92,Smartphone,1,Dell,13657.34,346
+,93,Tablet,1,Samsung,30348.6,306
+,94,Smartphone,1,Samsung,5797.11,238
+,95,Smart TV,1,Sony,1560.14,101
+,96,Smart TV,1,Dell,47227.44,236
+,97,Smart TV,1,Samsung,6154.01,102
+,98,Smart TV,1,Apple,850.22,307
+,99,Tablet,1,Dell,43998.62,482
+,100,Tablet,1,Apple,48222.69,371
+,101,Shirt,2,H&M,48454.61,285
+,102,Jeans,2,Zara,14341.23,316
+,103,T-Shirt,2,H&M,40401.82,71
+,104,T-Shirt,2,H&M,11896.3,176
+,105,Jeans,2,Zara,25633.8,466
+,106,Shirt,2,H&M,19434.85,215
+,107,Dress,2,Puma,21885.5,445
+,108,Dress,2,Puma,1614.51,479
+,109,T-Shirt,2,Zara,17905.62,355
+,110,Shirt,2,Levis,8202,137
+,111,Shirt,2,Zara,33382.07,156
+,112,Dress,2,Puma,17682.88,104
+,113,Shirt,2,Puma,16235.14,368
+,114,T-Shirt,2,Puma,40457.15,238
+,115,Jeans,2,H&M,17518.56,127
+,116,Dress,2,Zara,9809.19,405
+,117,Jeans,2,Puma,33586.97,334
+,118,Jeans,2,Puma,48676.55,353
+,119,Jeans,2,Levis,8708.4,232
+,120,Jeans,2,Levis,45774.03,178
+,121,T-Shirt,2,H&M,41904.62,28
+,122,T-Shirt,2,Levis,35153.92,221
+,123,Jeans,2,Zara,14853.05,152
+,124,Dress,2,Levis,27894.07,288
+,125,Jeans,2,Puma,28188.16,288
+,126,Jeans,2,H&M,23347.05,47
+,127,Dress,2,Levis,24310.87,215
+,128,Dress,2,H&M,6706.86,487
+,129,Dress,2,Zara,16518.18,341
+,130,Jeans,2,Levis,7432.54,292
+,131,Jeans,2,Zara,4079.2,119
+,132,Jeans,2,Levis,42932.68,344
+,133,T-Shirt,2,Puma,35093.37,181
+,134,Jeans,2,Levis,47552.29,258
+,135,Jeans,2,H&M,42770.87,485
+,136,Jeans,2,Puma,44126.56,480
+,137,Jeans,2,H&M,43745.12,443
+,138,Dress,2,H&M,34860.15,360
+,139,Dress,2,Zara,49667.98,319
+,140,Dress,2,H&M,39680.49,415
+,141,Jeans,2,Puma,39289.63,153
+,142,Jeans,2,Zara,5929.65,163
+,143,Dress,2,Levis,12663.03,487
+,144,Dress,2,Puma,35197.67,122
+,145,Dress,2,H&M,6532.09,317
+,146,T-Shirt,2,Puma,19129,104
+,147,Jeans,2,Zara,1346.09,283
+,148,T-Shirt,2,H&M,34482.69,489
+,149,Shirt,2,Levis,47320.78,69
+,150,Dress,2,H&M,16811.66,40
+,151,Dress,2,Zara,48149.44,349
+,152,Dress,2,Puma,9101.77,342
+,153,Shirt,2,Levis,22473.61,252
+,154,Dress,2,H&M,6903.51,88
+,155,Shirt,2,Levis,30610.89,31
+,156,T-Shirt,2,H&M,170.44,352
+,157,Jeans,2,Zara,32763.94,402
+,158,Jeans,2,Puma,26727.41,111
+,159,T-Shirt,2,Zara,31759.34,414
+,160,T-Shirt,2,H&M,14066.5,485
+,161,Jeans,2,Puma,35291.43,305
+,162,Jeans,2,Levis,49763.48,132
+,163,Jeans,2,H&M,25014.48,218
+,164,Jeans,2,Zara,15624.49,33
+,165,Jeans,2,H&M,8380.26,358
+,166,T-Shirt,2,Zara,20571.86,137
+,167,Shirt,2,Zara,31415.69,65
+,168,Dress,2,H&M,41631.91,105
+,169,Jeans,2,Puma,40435.61,195
+,170,T-Shirt,2,Levis,6526.96,417
+,171,T-Shirt,2,Zara,2767.4,421
+,172,T-Shirt,2,Zara,7098.59,357
+,173,T-Shirt,2,Puma,21472.29,310
+,174,Shirt,2,Levis,39914.04,471
+,175,Jeans,2,H&M,1015.92,336
+,176,Jeans,2,H&M,6113.37,228
+,177,Jeans,2,Puma,48446.39,359
+,178,Shirt,2,Zara,49188.65,449
+,179,Shirt,2,Puma,14243.57,162
+,180,Jeans,2,H&M,37752.54,386
+,181,Jeans,2,Levis,31452.18,45
+,182,Shirt,2,Zara,46017.12,451
+,183,T-Shirt,2,H&M,10402.53,266
+,184,Jeans,2,H&M,36065.61,281
+,185,T-Shirt,2,Puma,47681.15,200
+,186,T-Shirt,2,Puma,44322.5,388
+,187,Shirt,2,Puma,35047.28,223
+,188,Shirt,2,Puma,13775.59,80
+,189,Jeans,2,Puma,37346.54,223
+,190,T-Shirt,2,Zara,33935,417
+,191,Shirt,2,Zara,49717,206
+,192,Dress,2,H&M,20634.83,399
+,193,Shirt,2,Puma,23435.56,117
+,194,Dress,2,Levis,14177.12,242
+,195,Shirt,2,Zara,22899.03,390
+,196,Dress,2,H&M,38611.81,129
+,197,Jeans,2,Zara,3187.88,200
+,198,Shirt,2,H&M,46432.08,234
+,199,Shirt,2,Levis,30490.93,238
+,200,Jeans,2,H&M,49046.27,155
+,201,Lipstick,3,Loreal,35827.84,212
+,202,Face Wash,3,Lakme,49489.51,422
+,203,Shampoo,3,Loreal,3646.06,252
+,204,Lipstick,3,Lakme,18103.09,200
+,205,Face Wash,3,Lakme,34423.57,336
+,206,Shampoo,3,Maybelline,19112.17,348
+,207,Lipstick,3,Maybelline,35881.97,374
+,208,Shampoo,3,Loreal,46590.77,434
+,209,Lipstick,3,Maybelline,47287.65,146
+,210,Face Wash,3,Loreal,48615.86,370
+,211,Lipstick,3,Loreal,13975.72,97
+,212,Shampoo,3,Maybelline,47875.6,54
+,213,Face Wash,3,Loreal,33529.72,26
+,214,Shampoo,3,Lakme,31036.23,225
+,215,Perfume,3,Maybelline,19600.92,36
+,216,Face Wash,3,Maybelline,528.8,281
+,217,Perfume,3,Maybelline,27459.28,320
+,218,Lipstick,3,Loreal,27002.35,171
+,219,Face Wash,3,Lakme,38498.63,240
+,220,Shampoo,3,Lakme,16287.79,500
+,221,Face Wash,3,Loreal,22565.62,391
+,222,Face Wash,3,Maybelline,8071.73,275
+,223,Shampoo,3,Maybelline,24941.95,74
+,224,Perfume,3,Maybelline,42322.15,135
+,225,Lipstick,3,Maybelline,1869.83,91
+,226,Lipstick,3,Loreal,22798.57,221
+,227,Shampoo,3,Maybelline,941.09,45
+,228,Perfume,3,Lakme,10167.23,368
+,229,Shampoo,3,Maybelline,12904.33,402
+,230,Shampoo,3,Maybelline,5718.21,275
+,231,Face Wash,3,Loreal,16980.48,286
+,232,Face Wash,3,Lakme,22651.32,219
+,233,Shampoo,3,Loreal,33438.04,45
+,234,Face Wash,3,Maybelline,25287.75,243
+,235,Lipstick,3,Lakme,36329.24,143
+,236,Shampoo,3,Maybelline,37708.54,87
+,237,Perfume,3,Maybelline,21382.44,233
+,238,Shampoo,3,Lakme,8689.71,213
+,239,Shampoo,3,Maybelline,38294.94,410
+,240,Face Wash,3,Loreal,11196.14,165
+,241,Lipstick,3,Maybelline,49977.09,136
+,242,Perfume,3,Loreal,22341.83,254
+,243,Lipstick,3,Loreal,43955.23,25
+,244,Face Wash,3,Loreal,44879.79,35
+,245,Perfume,3,Maybelline,46223.38,286
+,246,Lipstick,3,Loreal,14873.8,417
+,247,Perfume,3,Loreal,5710.29,298
+,248,Shampoo,3,Maybelline,25044.88,334
+,249,Perfume,3,Lakme,881.4,430
+,250,Shampoo,3,Loreal,31859.48,108
+,251,Face Wash,3,Lakme,13724.82,39
+,252,Face Wash,3,Lakme,45941.8,263
+,253,Face Wash,3,Loreal,30341.18,371
+,254,Perfume,3,Lakme,7486.61,233
+,255,Perfume,3,Lakme,7758.36,365
+,256,Perfume,3,Lakme,45113.04,251
+,257,Lipstick,3,Loreal,11528.65,317
+,258,Shampoo,3,Maybelline,26114.12,218
+,259,Face Wash,3,Loreal,30262.01,110
+,260,Perfume,3,Maybelline,37969.88,155
+,261,Shampoo,3,Lakme,35266.07,482
+,262,Lipstick,3,Loreal,33717.37,127
+,263,Shampoo,3,Lakme,38732.11,267
+,264,Lipstick,3,Maybelline,48264.45,106
+,265,Perfume,3,Maybelline,39994.75,427
+,266,Perfume,3,Lakme,6215.67,212
+,267,Lipstick,3,Loreal,30539.77,87
+,268,Shampoo,3,Lakme,19078.56,201
+,269,Lipstick,3,Lakme,35689.87,202
+,270,Shampoo,3,Loreal,29022.33,330
+,271,Shampoo,3,Maybelline,15579.63,360
+,272,Face Wash,3,Maybelline,16074.64,131
+,273,Shampoo,3,Maybelline,10881.17,269
+,274,Lipstick,3,Lakme,9975.06,357
+,275,Face Wash,3,Loreal,4766.78,117
+,276,Face Wash,3,Maybelline,28723.69,44
+,277,Lipstick,3,Maybelline,4373.85,45
+,278,Face Wash,3,Loreal,16589.96,224
+,279,Shampoo,3,Loreal,46541.97,188
+,280,Face Wash,3,Lakme,34648.25,201
+,281,Face Wash,3,Lakme,16708.91,253
+,282,Lipstick,3,Maybelline,26451.91,33
+,283,Perfume,3,Lakme,40889.69,151
+,284,Shampoo,3,Maybelline,4859.35,442
+,285,Face Wash,3,Loreal,33077.12,262
+,286,Face Wash,3,Loreal,15842.19,463
+,287,Shampoo,3,Maybelline,18986.35,75
+,288,Perfume,3,Lakme,25810.4,495
+,289,Shampoo,3,Loreal,10659.91,427
+,290,Shampoo,3,Loreal,26208.25,418
+,291,Shampoo,3,Lakme,23230.44,40
+,292,Shampoo,3,Lakme,32311.87,249
+,293,Face Wash,3,Loreal,12960.99,478
+,294,Shampoo,3,Loreal,7099.56,47
+,295,Shampoo,3,Lakme,27549.37,376
+,296,Perfume,3,Maybelline,29471.21,187
+,297,Lipstick,3,Loreal,35085.04,84
+,298,Lipstick,3,Loreal,20284.64,442
+,299,Lipstick,3,Maybelline,5222.74,132
+,300,Perfume,3,Lakme,11999.98,351
+,301,Chair,4,HomeCentre,31557.88,263
+,302,Bed,4,HomeCentre,20650.16,163
+,303,Chair,4,Nilkamal,4600.34,320
+,304,Sofa,4,HomeCentre,25509.55,314
+,305,Bed,4,Nilkamal,10660.22,357
+,306,Sofa,4,Nilkamal,22738.04,288
+,307,Sofa,4,IKEA,19452.77,485
+,308,Table,4,Nilkamal,38251.93,345
+,309,Bed,4,Nilkamal,14390.13,210
+,310,Table,4,IKEA,35936.29,360
+,311,Sofa,4,Nilkamal,48030.84,299
+,312,Chair,4,HomeCentre,15243.73,342
+,313,Chair,4,IKEA,4237.8,28
+,314,Bed,4,Nilkamal,30156.96,450
+,315,Table,4,Nilkamal,34504.01,66
+,316,Chair,4,Nilkamal,41473.84,258
+,317,Table,4,IKEA,17240.1,307
+,318,Sofa,4,IKEA,10044.98,151
+,319,Sofa,4,HomeCentre,7684.63,379
+,320,Sofa,4,IKEA,19033.45,244
+,321,Chair,4,IKEA,41043.4,289
+,322,Sofa,4,Nilkamal,30749.6,410
+,323,Bed,4,Nilkamal,6768.4,336
+,324,Sofa,4,HomeCentre,42494.12,21
+,325,Table,4,IKEA,10552.75,58
+,326,Table,4,HomeCentre,24700.2,196
+,327,Chair,4,HomeCentre,251.95,20
+,328,Table,4,HomeCentre,40292.37,190
+,329,Table,4,Nilkamal,34761.49,32
+,330,Chair,4,IKEA,15117.97,314
+,331,Table,4,HomeCentre,18280.78,137
+,332,Chair,4,IKEA,12512.09,128
+,333,Sofa,4,IKEA,22083.03,426
+,334,Sofa,4,HomeCentre,27626.2,20
+,335,Sofa,4,IKEA,43454.86,217
+,336,Sofa,4,Nilkamal,5068.64,74
+,337,Sofa,4,HomeCentre,47288.37,137
+,338,Sofa,4,IKEA,34133.42,139
+,339,Chair,4,HomeCentre,43374.97,244
+,340,Sofa,4,IKEA,12072.33,239
+,341,Sofa,4,Nilkamal,33098.85,306
+,342,Bed,4,IKEA,29224.81,211
+,343,Chair,4,Nilkamal,13776.89,268
+,344,Table,4,IKEA,42028.78,52
+,345,Bed,4,HomeCentre,28109.5,220
+,346,Sofa,4,IKEA,44808.07,302
+,347,Sofa,4,IKEA,33553.17,264
+,348,Table,4,HomeCentre,4112.63,423
+,349,Chair,4,Nilkamal,37546.22,66
+,350,Table,4,IKEA,42192.4,148
+,351,Chair,4,IKEA,32472.75,481
+,352,Bed,4,IKEA,45867.72,94
+,353,Sofa,4,IKEA,49328.11,92
+,354,Chair,4,Nilkamal,2448.82,51
+,355,Sofa,4,HomeCentre,15869.74,323
+,356,Chair,4,Nilkamal,40040.74,207
+,357,Chair,4,Nilkamal,6817.15,479
+,358,Bed,4,IKEA,28583.01,480
+,359,Bed,4,Nilkamal,626.4,188
+,360,Bed,4,Nilkamal,9983.16,388
+,361,Sofa,4,IKEA,2445.14,43
+,362,Table,4,HomeCentre,45967.51,264
+,363,Chair,4,HomeCentre,17283.56,125
+,364,Chair,4,Nilkamal,45035.76,435
+,365,Chair,4,IKEA,24294.95,299
+,366,Table,4,HomeCentre,21233.96,423
+,367,Sofa,4,IKEA,18979.34,274
+,368,Bed,4,IKEA,28122.08,390
+,369,Sofa,4,IKEA,12536.4,314
+,370,Chair,4,Nilkamal,11665.81,489
+,371,Sofa,4,HomeCentre,40103.37,302
+,372,Bed,4,Nilkamal,3056.21,475
+,373,Chair,4,HomeCentre,48288.28,351
+,374,Chair,4,HomeCentre,32864.18,341
+,375,Chair,4,IKEA,47347.66,50
+,376,Sofa,4,HomeCentre,21759.34,100
+,377,Bed,4,Nilkamal,46110.07,323
+,378,Bed,4,Nilkamal,40459.4,161
+,379,Table,4,HomeCentre,35970.41,407
+,380,Chair,4,Nilkamal,9998.17,163
+,381,Table,4,IKEA,13776.55,308
+,382,Sofa,4,Nilkamal,15106.96,432
+,383,Sofa,4,IKEA,34132.27,329
+,384,Sofa,4,IKEA,45080.51,287
+,385,Sofa,4,IKEA,29529.29,476
+,386,Chair,4,IKEA,906.83,197
+,387,Chair,4,Nilkamal,15432.13,492
+,388,Table,4,Nilkamal,19179.34,161
+,389,Table,4,HomeCentre,32842.52,98
+,390,Chair,4,HomeCentre,26364.5,99
+,391,Sofa,4,IKEA,22235.07,329
+,392,Bed,4,IKEA,11530.37,450
+,393,Sofa,4,IKEA,39274.98,113
+,394,Chair,4,HomeCentre,20936.61,115
+,395,Table,4,Nilkamal,48615.3,381
+,396,Bed,4,HomeCentre,44158.65,142
+,397,Chair,4,IKEA,9082.42,62
+,398,Sofa,4,HomeCentre,29443.92,154
+,399,Sofa,4,HomeCentre,2933.57,467
+,400,Chair,4,IKEA,16367.88,253
+,401,Cooker,5,Prestige,26531.48,66
+,402,Pan,5,Pigeon,4678.2,215
+,403,Mixer,5,Prestige,16682.38,34
+,404,Pan,5,Prestige,20007.83,355
+,405,Pan,5,Butterfly,10878.42,106
+,406,Dinner Set,5,Pigeon,2724.95,273
+,407,Mixer,5,Prestige,42438.39,157
+,408,Cooker,5,Pigeon,2962.18,35
+,409,Mixer,5,Butterfly,42560.01,309
+,410,Dinner Set,5,Prestige,27819.32,263
+,411,Dinner Set,5,Butterfly,5809.87,244
+,412,Pan,5,Butterfly,18214.23,224
+,413,Pan,5,Pigeon,19759.94,210
+,414,Cooker,5,Prestige,10668.86,432
+,415,Cooker,5,Pigeon,47703.5,466
+,416,Pan,5,Butterfly,47769.42,128
+,417,Dinner Set,5,Butterfly,6882.03,211
+,418,Pan,5,Pigeon,38785.4,348
+,419,Mixer,5,Pigeon,18860.91,456
+,420,Mixer,5,Butterfly,3626.98,198
+,421,Pan,5,Butterfly,26354.18,466
+,422,Pan,5,Butterfly,2010.33,353
+,423,Dinner Set,5,Butterfly,26338.65,452
+,424,Dinner Set,5,Pigeon,47318.58,101
+,425,Pan,5,Pigeon,22354.77,356
+,426,Cooker,5,Butterfly,2542.77,307
+,427,Dinner Set,5,Prestige,23415.78,303
+,428,Pan,5,Butterfly,36363.77,230
+,429,Pan,5,Butterfly,34746.96,187
+,430,Pan,5,Pigeon,32460.76,341
+,431,Mixer,5,Pigeon,40596.45,247
+,432,Mixer,5,Prestige,33445.02,178
+,433,Cooker,5,Prestige,49189.75,340
+,434,Pan,5,Pigeon,7382.21,263
+,435,Mixer,5,Prestige,27166.92,486
+,436,Mixer,5,Pigeon,42000.89,404
+,437,Dinner Set,5,Butterfly,41987.36,306
+,438,Pan,5,Prestige,16407.61,393
+,439,Cooker,5,Pigeon,22643.13,436
+,440,Mixer,5,Butterfly,24253.16,21
+,441,Mixer,5,Prestige,32515.75,224
+,442,Pan,5,Pigeon,21045.8,384
+,443,Dinner Set,5,Pigeon,12148.36,443
+,444,Mixer,5,Butterfly,6648.58,129
+,445,Mixer,5,Pigeon,20617.98,398
+,446,Mixer,5,Prestige,23530.35,48
+,447,Dinner Set,5,Pigeon,13407.1,276
+,448,Pan,5,Prestige,15724.29,490
+,449,Cooker,5,Prestige,5948.43,94
+,450,Cooker,5,Butterfly,33379.26,36
+,451,Cooker,5,Prestige,16575.97,374
+,452,Cooker,5,Butterfly,29274.89,366
+,453,Dinner Set,5,Prestige,42990.24,247
+,454,Pan,5,Prestige,25139.04,479
+,455,Pan,5,Pigeon,10833.67,329
+,456,Mixer,5,Pigeon,39192.67,115
+,457,Pan,5,Butterfly,48575.62,492
+,458,Pan,5,Prestige,48892.98,455
+,459,Mixer,5,Prestige,47810.87,177
+,460,Cooker,5,Pigeon,9036.3,150
+,461,Cooker,5,Pigeon,11730.47,117
+,462,Pan,5,Prestige,24801.57,310
+,463,Cooker,5,Prestige,39206.5,147
+,464,Dinner Set,5,Pigeon,32054.62,335
+,465,Pan,5,Prestige,3941.54,443
+,466,Mixer,5,Pigeon,7613.68,195
+,467,Mixer,5,Pigeon,42472,282
+,468,Pan,5,Prestige,10103.81,318
+,469,Dinner Set,5,Prestige,2364.56,304
+,470,Cooker,5,Prestige,1289.76,386
+,471,Cooker,5,Prestige,31962.96,465
+,472,Dinner Set,5,Prestige,5243.84,131
+,473,Pan,5,Butterfly,622.79,21
+,474,Pan,5,Prestige,42737.98,491
+,475,Dinner Set,5,Prestige,40145.62,133
+,476,Mixer,5,Prestige,34171.52,487
+,477,Mixer,5,Prestige,34028.8,337
+,478,Mixer,5,Prestige,15126.92,190
+,479,Cooker,5,Pigeon,40148.79,85
+,480,Pan,5,Pigeon,8819.38,108
+,481,Mixer,5,Prestige,1996.57,43
+,482,Pan,5,Pigeon,48905.55,264
+,483,Cooker,5,Prestige,14769.59,208
+,484,Pan,5,Prestige,16570.05,148
+,485,Cooker,5,Pigeon,1982.66,426
+,486,Mixer,5,Butterfly,9323.84,362
+,487,Mixer,5,Pigeon,21990.86,381
+,488,Dinner Set,5,Pigeon,32400.63,112
+,489,Dinner Set,5,Pigeon,30127.45,453
+,490,Dinner Set,5,Butterfly,1262.41,206
+,491,Cooker,5,Prestige,18388.16,137
+,492,Cooker,5,Butterfly,42151.21,309
+,493,Dinner Set,5,Butterfly,9565.93,157
+,494,Cooker,5,Pigeon,24653.07,48
+,495,Mixer,5,Butterfly,32463.85,145
+,496,Mixer,5,Prestige,16711.68,279
+,497,Cooker,5,Prestige,17328.68,329
+,498,Mixer,5,Pigeon,40855.95,435
+,499,Pan,5,Prestige,9250.34,118
+,500,Dinner Set,5,Prestige,32341.42,167
+,501,Football,6,SG,28280.73,413
+,502,Football,6,Cosco,37374.23,187
+,503,Cricket Bat,6,Nivia,32692.28,62
+,504,Yoga Mat,6,Nivia,40466.12,35
+,505,Yoga Mat,6,SG,42729.55,261
+,506,Football,6,Nivia,3763.72,204
+,507,Football,6,Nivia,32693.61,94
+,508,Football,6,Cosco,39285.19,348
+,509,Cricket Bat,6,Cosco,5113.36,415
+,510,Football,6,Nivia,22268.18,380
+,511,Dumbbell,6,SG,44936.91,166
+,512,Cricket Bat,6,SG,40750.84,491
+,513,Football,6,Nivia,11154.07,227
+,514,Dumbbell,6,SG,18966.68,255
+,515,Yoga Mat,6,Cosco,44351.26,223
+,516,Cricket Bat,6,Cosco,9256.02,264
+,517,Dumbbell,6,Nivia,29572.9,419
+,518,Yoga Mat,6,Nivia,3127.44,472
+,519,Yoga Mat,6,Cosco,40885.11,118
+,520,Yoga Mat,6,SG,46674.19,375
+,521,Yoga Mat,6,Cosco,28717.57,172
+,522,Football,6,Nivia,32184.95,88
+,523,Cricket Bat,6,Cosco,33153.41,202
+,524,Yoga Mat,6,SG,31623.15,469
+,525,Cricket Bat,6,SG,34390.97,26
+,526,Cricket Bat,6,Nivia,21664.79,181
+,527,Yoga Mat,6,Nivia,23100.95,248
+,528,Football,6,Nivia,46979.24,44
+,529,Football,6,Nivia,15036.37,237
+,530,Dumbbell,6,Cosco,37241.33,99
+,531,Cricket Bat,6,Cosco,29571.91,99
+,532,Cricket Bat,6,Cosco,44359.58,479
+,533,Football,6,Cosco,35957.93,387
+,534,Dumbbell,6,SG,19008.82,213
+,535,Dumbbell,6,Cosco,10189.61,434
+,536,Yoga Mat,6,SG,5043.69,291
+,537,Dumbbell,6,Nivia,38143.41,149
+,538,Dumbbell,6,Nivia,7299.7,336
+,539,Dumbbell,6,Nivia,20848.37,64
+,540,Cricket Bat,6,SG,8490.56,465
+,541,Dumbbell,6,Nivia,15479.21,252
+,542,Dumbbell,6,Nivia,28142.47,142
+,543,Cricket Bat,6,Cosco,27881.12,260
+,544,Football,6,SG,33234.89,105
+,545,Dumbbell,6,Cosco,49359.22,337
+,546,Football,6,Cosco,41161.15,453
+,547,Football,6,Cosco,33685.3,229
+,548,Yoga Mat,6,SG,7102.08,334
+,549,Cricket Bat,6,Nivia,9645.36,393
+,550,Dumbbell,6,Nivia,25598.81,429
+,551,Cricket Bat,6,SG,22973.21,140
+,552,Yoga Mat,6,Cosco,18511.46,329
+,553,Cricket Bat,6,Nivia,31191.88,112
+,554,Football,6,SG,45798.08,33
+,555,Dumbbell,6,Nivia,13209.22,372
+,556,Cricket Bat,6,SG,25216.74,319
+,557,Yoga Mat,6,Cosco,7249.13,289
+,558,Football,6,Nivia,42249.44,162
+,559,Cricket Bat,6,SG,19033.72,369
+,560,Football,6,Cosco,14654.15,44
+,561,Football,6,Cosco,5281.37,488
+,562,Yoga Mat,6,SG,47538.62,61
+,563,Cricket Bat,6,Cosco,5244.89,223
+,564,Yoga Mat,6,Cosco,46804.42,370
+,565,Football,6,Cosco,27620.25,192
+,566,Football,6,Nivia,25751.84,60
+,567,Yoga Mat,6,SG,23163.81,391
+,568,Dumbbell,6,SG,22691.87,380
+,569,Cricket Bat,6,Nivia,38566.44,171
+,570,Yoga Mat,6,Cosco,40656.61,36
+,571,Dumbbell,6,Nivia,7832.65,401
+,572,Cricket Bat,6,Cosco,1037.37,428
+,573,Football,6,SG,32504.8,446
+,574,Dumbbell,6,SG,46666.47,163
+,575,Dumbbell,6,SG,26839.36,456
+,576,Football,6,Nivia,27636.69,477
+,577,Dumbbell,6,Cosco,24592.7,471
+,578,Yoga Mat,6,Cosco,9694.3,102
+,579,Yoga Mat,6,SG,34406.73,53
+,580,Cricket Bat,6,Cosco,8991.9,387
+,581,Football,6,Cosco,21271.03,231
+,582,Dumbbell,6,Nivia,34403.29,393
+,583,Football,6,Cosco,48598.96,351
+,584,Dumbbell,6,Cosco,37652.89,308
+,585,Cricket Bat,6,Cosco,42965.54,213
+,586,Dumbbell,6,Cosco,7320.24,31
+,587,Yoga Mat,6,SG,35574.11,125
+,588,Dumbbell,6,Nivia,1776.41,41
+,589,Cricket Bat,6,Cosco,25189.64,65
+,590,Dumbbell,6,Cosco,41237.77,73
+,591,Cricket Bat,6,Cosco,7975.91,232
+,592,Dumbbell,6,SG,3148.81,127
+,593,Football,6,SG,1687.9,282
+,594,Yoga Mat,6,Cosco,48874.67,376
+,595,Cricket Bat,6,SG,7218.86,53
+,596,Cricket Bat,6,Cosco,40024.03,226
+,597,Cricket Bat,6,Cosco,27710.89,240
+,598,Cricket Bat,6,Cosco,47087.38,160
+,599,Yoga Mat,6,Nivia,28813.99,246
+,600,Yoga Mat,6,Nivia,29336.09,261
+,601,Biography,7,Oxford,40657.4,85
+,602,Novel,7,HarperCollins,24617.96,210
+,603,Biography,7,Oxford,19946.14,353
+,604,Workbook,7,Oxford,30192.6,299
+,605,Novel,7,Oxford,13872.08,200
+,606,Biography,7,Penguin,17447.61,242
+,607,Dictionary,7,Oxford,26385.81,308
+,608,Workbook,7,Penguin,37606.41,164
+,609,Novel,7,HarperCollins,26046.3,247
+,610,Workbook,7,Oxford,17690.45,110
+,611,Workbook,7,HarperCollins,510,381
+,612,Dictionary,7,Penguin,21951.71,104
+,613,Dictionary,7,HarperCollins,21984.43,311
+,614,Workbook,7,Penguin,20670.26,46
+,615,Biography,7,Oxford,31744.86,272
+,616,Dictionary,7,HarperCollins,36074.71,213
+,617,Dictionary,7,Penguin,43779.32,398
+,618,Dictionary,7,Penguin,3139.26,120
+,619,Workbook,7,Penguin,4660.1,315
+,620,Dictionary,7,HarperCollins,47447.63,68
+,621,Dictionary,7,Penguin,45296.63,60
+,622,Workbook,7,Penguin,34117.57,292
+,623,Biography,7,HarperCollins,11105.43,64
+,624,Dictionary,7,Oxford,15619.65,109
+,625,Biography,7,Penguin,31932.09,338
+,626,Dictionary,7,Oxford,3536.46,256
+,627,Workbook,7,Penguin,28577.2,414
+,628,Novel,7,Oxford,35422.3,490
+,629,Novel,7,Oxford,49003.18,306
+,630,Dictionary,7,HarperCollins,17168.05,352
+,631,Dictionary,7,HarperCollins,29396.42,27
+,632,Novel,7,Oxford,13999.83,227
+,633,Biography,7,HarperCollins,46932.66,242
+,634,Dictionary,7,HarperCollins,16161.25,27
+,635,Dictionary,7,Oxford,46438.38,217
+,636,Novel,7,HarperCollins,2365.08,472
+,637,Workbook,7,Penguin,41988.62,325
+,638,Novel,7,Oxford,42702.54,57
+,639,Dictionary,7,Oxford,47179.05,133
+,640,Biography,7,HarperCollins,33882.76,348
+,641,Workbook,7,Penguin,28292.85,241
+,642,Dictionary,7,HarperCollins,23538.18,34
+,643,Biography,7,Oxford,47439.54,170
+,644,Biography,7,Penguin,41769.33,246
+,645,Novel,7,HarperCollins,6692.86,216
+,646,Workbook,7,Oxford,14724.94,350
+,647,Novel,7,Penguin,21542.96,489
+,648,Novel,7,HarperCollins,32463.46,78
+,649,Dictionary,7,Penguin,11137.62,486
+,650,Novel,7,HarperCollins,33966.36,407
+,651,Novel,7,HarperCollins,8212.67,179
+,652,Dictionary,7,HarperCollins,19006.65,180
+,653,Novel,7,Penguin,34409.96,373
+,654,Workbook,7,Penguin,22109.25,244
+,655,Novel,7,Oxford,13677.22,347
+,656,Workbook,7,Penguin,14721.28,253
+,657,Workbook,7,Penguin,2090.16,265
+,658,Workbook,7,Oxford,25089.45,109
+,659,Novel,7,Penguin,22648.1,471
+,660,Biography,7,Penguin,337.72,378
+,661,Biography,7,Oxford,21892,316
+,662,Workbook,7,Oxford,38790.45,360
+,663,Novel,7,Penguin,10964.97,115
+,664,Workbook,7,HarperCollins,1619.7,157
+,665,Workbook,7,Penguin,12245.88,268
+,666,Biography,7,HarperCollins,43916.52,192
+,667,Biography,7,HarperCollins,21000.34,261
+,668,Workbook,7,HarperCollins,5046.95,113
+,669,Workbook,7,Oxford,11908.75,134
+,670,Workbook,7,HarperCollins,43469.68,330
+,671,Biography,7,HarperCollins,22094.99,272
+,672,Novel,7,Penguin,39118.12,32
+,673,Biography,7,HarperCollins,43121.39,342
+,674,Dictionary,7,Penguin,9994,271
+,675,Workbook,7,Penguin,24189.98,347
+,676,Dictionary,7,HarperCollins,7111.31,84
+,677,Novel,7,Oxford,25397.69,78
+,678,Novel,7,Oxford,26496.1,85
+,679,Biography,7,Oxford,537.88,178
+,680,Novel,7,Oxford,25502.09,407
+,681,Dictionary,7,Oxford,30983.78,435
+,682,Novel,7,Oxford,38628.44,124
+,683,Workbook,7,HarperCollins,826.55,151
+,684,Dictionary,7,HarperCollins,14123.1,353
+,685,Novel,7,HarperCollins,25609.97,241
+,686,Workbook,7,Penguin,307.54,343
+,687,Dictionary,7,Oxford,28554.59,114
+,688,Biography,7,HarperCollins,47105.46,258
+,689,Novel,7,Penguin,25789.05,320
+,690,Workbook,7,Oxford,40623.61,192
+,691,Workbook,7,Oxford,25643.32,120
+,692,Biography,7,Penguin,17721.43,265
+,693,Novel,7,HarperCollins,4536.92,199
+,694,Dictionary,7,HarperCollins,41878.22,374
+,695,Novel,7,HarperCollins,152.73,421
+,696,Biography,7,HarperCollins,18504.48,103
+,697,Workbook,7,HarperCollins,20161.8,316
+,698,Biography,7,HarperCollins,37311.81,180
+,699,Biography,7,Penguin,18162.32,273
+,700,Workbook,7,Penguin,29295.02,230
+,701,Toy Car,8,Lego,31631.67,273
+,702,Doll,8,Lego,30322.67,328
+,703,Toy Car,8,Mattel,31896.78,310
+,704,Toy Car,8,Mattel,47006.55,59
+,705,Doll,8,Funskool,10653.39,65
+,706,Board Game,8,Funskool,17797.79,265
+,707,Toy Car,8,Funskool,48835.7,131
+,708,Board Game,8,Funskool,5100.39,267
+,709,Toy Car,8,Funskool,31086.78,425
+,710,Toy Car,8,Lego,36456.32,349
+,711,Puzzle,8,Lego,34516.97,196
+,712,Puzzle,8,Funskool,44309.24,196
+,713,Doll,8,Mattel,30985.65,173
+,714,Toy Car,8,Lego,8237.17,460
+,715,Board Game,8,Lego,12763.93,448
+,716,Toy Car,8,Mattel,21106.88,211
+,717,Doll,8,Lego,49007.02,479
+,718,Board Game,8,Mattel,37348.88,70
+,719,Toy Car,8,Lego,39231.68,332
+,720,Board Game,8,Lego,16202.83,443
+,721,Toy Car,8,Funskool,47901.33,459
+,722,Toy Car,8,Lego,32271.79,37
+,723,Board Game,8,Funskool,6435.38,350
+,724,Puzzle,8,Mattel,41905.74,259
+,725,Toy Car,8,Lego,30609.13,53
+,726,Puzzle,8,Mattel,24642.74,59
+,727,Puzzle,8,Funskool,46168.67,93
+,728,Toy Car,8,Funskool,38904.74,334
+,729,Doll,8,Funskool,25254.24,130
+,730,Toy Car,8,Funskool,35831.04,257
+,731,Puzzle,8,Funskool,36828.71,170
+,732,Doll,8,Lego,37002.44,207
+,733,Board Game,8,Lego,21749.25,371
+,734,Toy Car,8,Lego,11114.98,135
+,735,Board Game,8,Mattel,7715.83,72
+,736,Toy Car,8,Mattel,26149.41,393
+,737,Toy Car,8,Mattel,17877.97,354
+,738,Board Game,8,Mattel,46554.65,189
+,739,Toy Car,8,Lego,11021.91,474
+,740,Doll,8,Funskool,48600.43,248
+,741,Doll,8,Mattel,38223.41,211
+,742,Puzzle,8,Lego,29210.97,259
+,743,Board Game,8,Lego,3137.82,383
+,744,Board Game,8,Funskool,31696.73,252
+,745,Board Game,8,Lego,31687.5,59
+,746,Doll,8,Funskool,28502.65,317
+,747,Doll,8,Funskool,30640.76,375
+,748,Board Game,8,Funskool,30677.62,429
+,749,Toy Car,8,Lego,41459.12,297
+,750,Board Game,8,Lego,34992.3,327
+,751,Doll,8,Mattel,21824.92,348
+,752,Doll,8,Mattel,24111.39,474
+,753,Board Game,8,Mattel,8491.99,467
+,754,Puzzle,8,Funskool,17482.57,66
+,755,Toy Car,8,Funskool,35056.3,405
+,756,Doll,8,Mattel,12060.13,478
+,757,Doll,8,Funskool,24575.31,186
+,758,Doll,8,Lego,13658.69,249
+,759,Toy Car,8,Mattel,34997.26,403
+,760,Puzzle,8,Funskool,37985.1,385
+,761,Doll,8,Lego,25926.4,370
+,762,Board Game,8,Mattel,29309.54,299
+,763,Doll,8,Lego,35129.25,346
+,764,Doll,8,Mattel,8493.86,171
+,765,Toy Car,8,Funskool,31363.12,187
+,766,Doll,8,Funskool,13317.11,149
+,767,Toy Car,8,Lego,31889.25,154
+,768,Doll,8,Mattel,18270.87,79
+,769,Doll,8,Lego,49180.62,326
+,770,Puzzle,8,Mattel,42696.21,478
+,771,Doll,8,Funskool,41755.53,422
+,772,Doll,8,Mattel,9814.7,243
+,773,Doll,8,Mattel,42578.66,82
+,774,Board Game,8,Funskool,20272.75,265
+,775,Toy Car,8,Mattel,11061.98,171
+,776,Toy Car,8,Funskool,42979.27,229
+,777,Doll,8,Funskool,7971.49,130
+,778,Toy Car,8,Lego,34961.44,128
+,779,Board Game,8,Mattel,35598.83,258
+,780,Toy Car,8,Funskool,34423.15,53
+,781,Board Game,8,Funskool,34823,453
+,782,Puzzle,8,Mattel,14891.48,208
+,783,Puzzle,8,Lego,14721.27,477
+,784,Puzzle,8,Lego,39742.73,184
+,785,Puzzle,8,Lego,11307.25,60
+,786,Toy Car,8,Funskool,14018.19,388
+,787,Doll,8,Funskool,17465.32,459
+,788,Toy Car,8,Mattel,2278.09,375
+,789,Board Game,8,Funskool,11483.61,304
+,790,Board Game,8,Mattel,34684.92,232
+,791,Toy Car,8,Lego,18978.2,442
+,792,Toy Car,8,Lego,11243.81,76
+,793,Board Game,8,Lego,21914.83,370
+,794,Doll,8,Mattel,35650.32,477
+,795,Puzzle,8,Lego,6165.83,201
+,796,Toy Car,8,Funskool,2888.07,187
+,797,Board Game,8,Mattel,1701.37,295
+,798,Doll,8,Lego,1359.42,86
+,799,Board Game,8,Funskool,12624.82,215
+,800,Board Game,8,Lego,30656.52,405
+,801,Sugar,9,Tata,12686.5,385
+,802,Rice,9,Aashirvaad,3551.52,73
+,803,Rice,9,Aashirvaad,36192.41,80
+,804,Cooking Oil,9,Fortune,12504.21,496
+,805,Rice,9,Aashirvaad,43910.41,39
+,806,Rice,9,Aashirvaad,10399.01,61
+,807,Rice,9,Fortune,46722.66,190
+,808,Sugar,9,Tata,39314.99,31
+,809,Tea,9,Fortune,6265.7,256
+,810,Sugar,9,Fortune,45233.88,177
+,811,Rice,9,Tata,9803.89,145
+,812,Rice,9,Fortune,664.88,424
+,813,Cooking Oil,9,Tata,215.96,262
+,814,Rice,9,Tata,42502.16,446
+,815,Cooking Oil,9,Fortune,38641.1,434
+,816,Tea,9,Fortune,26956.26,20
+,817,Rice,9,Fortune,30178.99,20
+,818,Rice,9,Fortune,23144.35,478
+,819,Rice,9,Aashirvaad,46917.73,119
+,820,Sugar,9,Tata,15580.23,47
+,821,Sugar,9,Aashirvaad,46121.28,168
+,822,Tea,9,Aashirvaad,36148.18,123
+,823,Rice,9,Aashirvaad,29451.68,101
+,824,Rice,9,Aashirvaad,7794.52,297
+,825,Sugar,9,Tata,16762.15,289
+,826,Sugar,9,Aashirvaad,40784.27,231
+,827,Tea,9,Aashirvaad,7894.21,68
+,828,Sugar,9,Aashirvaad,6410.36,424
+,829,Tea,9,Aashirvaad,26990.28,138
+,830,Cooking Oil,9,Tata,18752.22,194
+,831,Cooking Oil,9,Aashirvaad,2799.78,244
+,832,Tea,9,Aashirvaad,8757.16,294
+,833,Sugar,9,Fortune,15245.59,59
+,834,Rice,9,Aashirvaad,28060.99,378
+,835,Sugar,9,Fortune,38880.27,396
+,836,Cooking Oil,9,Tata,25373.84,248
+,837,Sugar,9,Fortune,44214.87,122
+,838,Rice,9,Tata,13420.16,394
+,839,Sugar,9,Fortune,535.88,43
+,840,Tea,9,Aashirvaad,28523.23,111
+,841,Tea,9,Aashirvaad,25675,216
+,842,Sugar,9,Aashirvaad,48099.41,226
+,843,Sugar,9,Tata,7132.04,159
+,844,Tea,9,Fortune,20911.38,109
+,845,Rice,9,Aashirvaad,20310.06,487
+,846,Sugar,9,Tata,39731.36,100
+,847,Sugar,9,Fortune,33464.03,359
+,848,Tea,9,Aashirvaad,12133.48,270
+,849,Rice,9,Tata,43688.02,200
+,850,Rice,9,Aashirvaad,8349.11,329
+,851,Sugar,9,Fortune,32977.25,468
+,852,Tea,9,Tata,18157.83,461
+,853,Rice,9,Aashirvaad,20890.88,330
+,854,Sugar,9,Fortune,28466.61,218
+,855,Tea,9,Fortune,25070.07,451
+,856,Cooking Oil,9,Aashirvaad,20109.52,126
+,857,Cooking Oil,9,Aashirvaad,4882.36,90
+,858,Sugar,9,Tata,9445.64,492
+,859,Cooking Oil,9,Fortune,3353.65,399
+,860,Rice,9,Tata,18260.39,277
+,861,Cooking Oil,9,Aashirvaad,24307.39,377
+,862,Rice,9,Fortune,5279.82,39
+,863,Tea,9,Tata,42694.29,116
+,864,Rice,9,Tata,42864.09,148
+,865,Sugar,9,Aashirvaad,31210.45,213
+,866,Tea,9,Tata,42697.54,268
+,867,Rice,9,Tata,3049.84,278
+,868,Tea,9,Tata,18495.56,249
+,869,Tea,9,Tata,35695.84,84
+,870,Sugar,9,Fortune,15119.99,161
+,871,Sugar,9,Tata,29743.3,477
+,872,Rice,9,Aashirvaad,24780.37,471
+,873,Tea,9,Aashirvaad,28048.6,138
+,874,Rice,9,Aashirvaad,4674.17,250
+,875,Rice,9,Tata,48087.12,422
+,876,Sugar,9,Fortune,3985.16,290
+,877,Tea,9,Aashirvaad,12540.61,108
+,878,Tea,9,Fortune,17305.38,115
+,879,Sugar,9,Tata,37451.38,109
+,880,Sugar,9,Fortune,35045.32,277
+,881,Tea,9,Aashirvaad,3778.59,271
+,882,Cooking Oil,9,Fortune,19778.77,73
+,883,Cooking Oil,9,Tata,24420.82,67
+,884,Sugar,9,Aashirvaad,25763.08,341
+,885,Rice,9,Tata,48217.9,412
+,886,Rice,9,Aashirvaad,6726.75,474
+,887,Tea,9,Fortune,18872.74,69
+,888,Rice,9,Fortune,36842.87,222
+,889,Cooking Oil,9,Aashirvaad,18492.97,453
+,890,Cooking Oil,9,Fortune,28234.97,410
+,891,Tea,9,Aashirvaad,43085.53,75
+,892,Cooking Oil,9,Tata,20967.64,334
+,893,Tea,9,Fortune,6179.31,299
+,894,Rice,9,Tata,34944.4,109
+,895,Rice,9,Fortune,31812.43,257
+,896,Tea,9,Tata,32013.57,191
+,897,Cooking Oil,9,Fortune,10488.39,110
+,898,Rice,9,Fortune,37775.34,366
+,899,Rice,9,Fortune,13118.22,484
+,900,Cooking Oil,9,Aashirvaad,29254.68,71
+,901,Wallet,10,Titan,48118.77,26
+,902,Sunglasses,10,Fastrack,32924.11,321
+,903,Backpack,10,Fastrack,28386.7,21
+,904,Wallet,10,Titan,26381.22,78
+,905,Wallet,10,Wildcraft,12411.99,317
+,906,Sunglasses,10,Wildcraft,47756.28,328
+,907,Watch,10,Wildcraft,28742.68,137
+,908,Watch,10,Wildcraft,8447.87,240
+,909,Watch,10,Titan,48635.43,92
+,910,Watch,10,Wildcraft,30247.27,407
+,911,Sunglasses,10,Wildcraft,5764.81,262
+,912,Wallet,10,Titan,32928.15,348
+,913,Backpack,10,Wildcraft,24848.99,281
+,914,Watch,10,Titan,32876.64,410
+,915,Sunglasses,10,Wildcraft,26106.43,190
+,916,Watch,10,Titan,2171.51,213
+,917,Sunglasses,10,Fastrack,11694.25,500
+,918,Sunglasses,10,Wildcraft,22423.28,288
+,919,Backpack,10,Titan,30327.93,314
+,920,Sunglasses,10,Fastrack,7867.59,478
+,921,Sunglasses,10,Titan,7508.52,134
+,922,Wallet,10,Wildcraft,21332.96,113
+,923,Wallet,10,Titan,12765.01,478
+,924,Backpack,10,Fastrack,45412.75,275
+,925,Watch,10,Wildcraft,44531.84,306
+,926,Sunglasses,10,Wildcraft,778.82,55
+,927,Backpack,10,Wildcraft,40672.64,381
+,928,Sunglasses,10,Wildcraft,22738.95,267
+,929,Sunglasses,10,Titan,20005.55,469
+,930,Sunglasses,10,Wildcraft,422.28,254
+,931,Wallet,10,Wildcraft,5659.92,281
+,932,Watch,10,Wildcraft,45643.47,470
+,933,Sunglasses,10,Titan,13151.46,228
+,934,Backpack,10,Titan,49578.6,440
+,935,Wallet,10,Fastrack,13163.46,285
+,936,Sunglasses,10,Wildcraft,38042.72,95
+,937,Backpack,10,Wildcraft,6083.76,397
+,938,Sunglasses,10,Fastrack,4185.83,271
+,939,Wallet,10,Wildcraft,43735.4,300
+,940,Watch,10,Titan,48121.67,143
+,941,Watch,10,Fastrack,49723.63,295
+,942,Watch,10,Fastrack,1954.73,290
+,943,Watch,10,Fastrack,24900.6,68
+,944,Backpack,10,Titan,37462.43,42
+,945,Wallet,10,Wildcraft,16142.68,26
+,946,Sunglasses,10,Fastrack,45781.29,332
+,947,Backpack,10,Wildcraft,24681.53,294
+,948,Backpack,10,Fastrack,6482.61,303
+,949,Wallet,10,Titan,30429.89,400
+,950,Sunglasses,10,Wildcraft,20107.09,91
+,951,Watch,10,Fastrack,40059.21,486
+,952,Sunglasses,10,Fastrack,10973.05,472
+,953,Backpack,10,Titan,31194.76,26
+,954,Watch,10,Titan,14717.7,69
+,955,Sunglasses,10,Fastrack,14736.97,378
+,956,Watch,10,Wildcraft,24328.28,447
+,957,Watch,10,Fastrack,40098.8,331
+,958,Watch,10,Wildcraft,41627.68,176
+,959,Watch,10,Fastrack,24817.78,87
+,960,Backpack,10,Titan,29446.13,36
+,961,Watch,10,Fastrack,12538.05,95
+,962,Backpack,10,Wildcraft,42246.25,254
+,963,Wallet,10,Wildcraft,6748.12,432
+,964,Wallet,10,Wildcraft,20503.12,330
+,965,Watch,10,Fastrack,7061.31,427
+,966,Watch,10,Fastrack,23406.54,112
+,967,Sunglasses,10,Titan,4795.25,496
+,968,Sunglasses,10,Titan,10585.02,84
+,969,Sunglasses,10,Wildcraft,48388.17,140
+,970,Sunglasses,10,Titan,5576.7,451
+,971,Sunglasses,10,Titan,32227.69,219
+,972,Sunglasses,10,Fastrack,4057.53,483
+,973,Wallet,10,Wildcraft,17846.33,353
+,974,Watch,10,Fastrack,28551.56,305
+,975,Backpack,10,Fastrack,1821.53,458
+,976,Sunglasses,10,Fastrack,28239.31,133
+,977,Wallet,10,Wildcraft,13818.99,497
+,978,Watch,10,Titan,3254.95,122
+,979,Backpack,10,Wildcraft,47058.11,394
+,980,Backpack,10,Titan,20699.47,187
+,981,Watch,10,Wildcraft,25518.06,126
+,982,Sunglasses,10,Titan,6162.96,311
+,983,Wallet,10,Wildcraft,10402.09,383
+,984,Backpack,10,Titan,6236.61,465
+,985,Watch,10,Titan,14148.73,396
+,986,Wallet,10,Fastrack,39463.62,201
+,987,Wallet,10,Wildcraft,39159.71,280
+,988,Wallet,10,Fastrack,3770.28,200
+,989,Sunglasses,10,Titan,14399.79,454
+,990,Wallet,10,Fastrack,46042.66,381
+,991,Backpack,10,Fastrack,30049.21,129
+,992,Watch,10,Titan,45160.86,86
+,993,Sunglasses,10,Wildcraft,13403.23,248
+,994,Wallet,10,Fastrack,3649.27,108
+,995,Sunglasses,10,Wildcraft,37234.35,379
+,996,Wallet,10,Wildcraft,18478.15,366
+,997,Wallet,10,Wildcraft,46276.25,204
+,998,Sunglasses,10,Wildcraft,8359.84,409
+,999,Wallet,10,Titan,32286.99,442
+,1000,Sunglasses,10,Wildcraft,43547.55,391
